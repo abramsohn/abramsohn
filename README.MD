@@ -5,6 +5,6 @@ I am a full-stack web developer, with an eye for clean, effective design and use
 **Languages**: JavaScript, HTML, CSS, Ruby, Python, SQL\
 **Frameworks**: React, Node.JS, Express.JS, Ruby on Rails, Django\
 **Database**: MongoDB, PostgreSQL, MySQL, Prisma ORM, Mongoose ODM\
-**UX/UI**: Adobe Photoshop, Sketch\
+**UX/UI**: Adobe Photoshop, Sketch
 
 [https://abramsohn.github.io/](https://abramsohn.github.io/)
