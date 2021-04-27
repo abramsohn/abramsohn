@@ -8,3 +8,5 @@ I am a full-stack web developer, with an eye for clean, effective design and use
 **UX/UI**: Adobe Photoshop, Sketch
 
 [https://abramsohn.github.io/](https://abramsohn.github.io/)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abramsohn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
